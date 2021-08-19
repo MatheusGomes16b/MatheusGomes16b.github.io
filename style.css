@@ -17,3 +17,14 @@ h1{
  #infosobre {
      font-weight: bold;
  }
+
+ .fotop{
+     border-radius: 100%;
+ }
+
+ .button {
+     background-color: #11a36a;
+     border-radius: 70%;
+     color: #fff;
+     padding: 20px 35px;
+ }
